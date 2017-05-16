@@ -1,0 +1,15 @@
+/*------GENERAL-------*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	margin: 0 auto;
+	width: 1920px;
+	text-align: center;
+}
+
+img {
+	border: 10px solid #000;
+}
